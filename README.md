@@ -2,6 +2,8 @@
 
 Undergraduate researcher in **3D/4D Computer Vision**, **Neural Rendering**, and **Image Restoration**.
 
+[**Academic Homepage →**](https://jincenou.github.io) · [**Email →**](mailto:oujincen@stu.scu.edu.cn)
+
 I am currently an undergraduate student in **Communication Engineering at Sichuan University** and a Research Assistant at **AutoLab, School of Artificial Intelligence, Shanghai Jiao Tong University**, and **SPILA, School of Electronic Information, Sichuan University**.
 
 My research focuses on **robust 3D/4D vision under imperfect observations**, spanning image restoration, neural rendering, dynamic scene reconstruction, and autonomous-driving simulation. I am particularly interested in developing robust and reusable 3D/4D representations from real-world observations and improving their completeness, consistency, and controllability.
@@ -11,29 +13,17 @@ My research focuses on **robust 3D/4D vision under imperfect observations**, spa
 
 ---
 
-## Publications & Manuscripts
+## Selected Publication
 
 ### SLER-IR: Spherical Layer-wise Expert Routing for All-in-One Image Restoration
 
 Shurui Peng*, Xin Lin*, Shi Luo*, **Jincen Ou**, Dizhe Zhang, Lu Qi, Truong Nguyen, Chao Ren
 
-**ECCV 2026**
+**arXiv, 2026**
 
 SLER-IR introduces spherical layer-wise expert routing for unified image restoration under multiple degradation types, together with spherical degradation representation and global-local feature modeling.
 
 [**arXiv →**](https://arxiv.org/abs/2603.05940)
-
----
-
-### Neural Rendering in the Wild: A Comprehensive Survey on Robust Neural 3D Representation
-
-Guihuan Guo, Chao Ren, **Jincen Ou**, Shurui Peng, Shi Luo, Yuxin Hu, Yanyin He, Ce Zhu
-
-**Manuscript submitted to International Journal of Computer Vision (IJCV), 2026**
-
-A comprehensive survey of robust neural 3D representation under imperfect real-world observations, covering **NeRF**, **3D Gaussian Splatting**, degradation-aware reconstruction, restoration-assisted approaches, and post-enhancement methods.
-
-My contribution focuses on the systematic investigation of **weather restoration and post-enhancement**, including representative methods, datasets, evaluation protocols, and experimental settings.
 
 ---
 
